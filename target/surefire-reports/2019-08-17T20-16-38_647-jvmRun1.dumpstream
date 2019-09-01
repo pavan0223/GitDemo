@@ -1,0 +1,262 @@
+# Created at 2019-08-17T20:16:46.435
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2019-08-17T20:16:49.862
+Unexpected IOException with stream: [
+
+# Created at 2019-08-17T20:16:49.862
+Unexpected IOException with stream: 1
+
+# Created at 2019-08-17T20:16:49.862
+Unexpected IOException with stream: 5
+
+# Created at 2019-08-17T20:16:49.862
+Unexpected IOException with stream: 6
+
+# Created at 2019-08-17T20:16:49.862
+Unexpected IOException with stream: 6
+
+# Created at 2019-08-17T20:16:49.878
+Unexpected IOException with stream: 0
+
+# Created at 2019-08-17T20:16:49.878
+Unexpected IOException with stream: 5
+
+# Created at 2019-08-17T20:16:49.878
+Unexpected IOException with stream: 3
+
+# Created at 2019-08-17T20:16:49.878
+Unexpected IOException with stream: 2
+
+# Created at 2019-08-17T20:16:49.878
+Unexpected IOException with stream: 0
+
+# Created at 2019-08-17T20:16:49.878
+Unexpected IOException with stream: 9
+
+# Created at 2019-08-17T20:16:49.878
+Unexpected IOException with stream: .
+
+# Created at 2019-08-17T20:16:49.878
+Unexpected IOException with stream: 8
+
+# Created at 2019-08-17T20:16:49.878
+Unexpected IOException with stream: 5
+
+# Created at 2019-08-17T20:16:49.893
+Unexpected IOException with stream: 4
+
+# Created at 2019-08-17T20:16:49.893
+Unexpected IOException with stream: ]
+
+# Created at 2019-08-17T20:16:49.893
+Unexpected IOException with stream: [
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: W
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: A
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: R
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: N
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: I
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: N
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: G
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: ]
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: :
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream:  
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: T
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: i
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: m
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: e
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: d
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream:  
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: o
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: u
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: t
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream:  
+
+# Created at 2019-08-17T20:16:49.909
+Unexpected IOException with stream: c
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: o
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: n
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: n
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: e
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: c
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: t
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: i
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: n
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: g
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream:  
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: t
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: o
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream:  
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: C
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: h
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: r
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: o
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: m
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: e
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: ,
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream:  
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: r
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: e
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: t
+
+# Created at 2019-08-17T20:16:49.925
+Unexpected IOException with stream: r
+
+# Created at 2019-08-17T20:16:49.940
+Unexpected IOException with stream: y
+
+# Created at 2019-08-17T20:16:49.940
+Unexpected IOException with stream: i
+
+# Created at 2019-08-17T20:16:49.940
+Unexpected IOException with stream: n
+
+# Created at 2019-08-17T20:16:49.940
+Unexpected IOException with stream: g
+
+# Created at 2019-08-17T20:16:49.940
+Unexpected IOException with stream: .
+
+# Created at 2019-08-17T20:16:49.940
+Unexpected IOException with stream: .
+
+# Created at 2019-08-17T20:16:49.940
+Unexpected IOException with stream: .
+
+# Created at 2019-08-17T20:16:49.940
+Unexpected IOException with stream: 
+
+# Created at 2019-08-17T20:16:49.940
+Unexpected IOException with stream: 
+
+
+# Created at 2019-08-17T20:16:57.990
+Unexpected IOException: 8,1,Academy.HomePage,initilize(Academy.HomePage),null,session not created\000Afrom chrome not reachable\000A  (Session info: chrome=76.0.3809.100)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SHRIMATHI-PC'\002C ip: '192.168.1.5'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: driver.version: ChromeDriver\000Aremote stacktrace: Backtrace:\000A\0009Ordinal0 [0x00487C93+1473683]\000A\0009Ordinal0 [0x0040ADB1+961969]\000A\0009Ordinal0 [0x0039418C+475532]\000A\0009Ordinal0 [0x0038DB1A+449306]\000A\0009Ordinal0 [0x0038E1B8+451000]\000A\0009Ordinal0 [0x0038F2C5+455365]\000A\0009Ordinal0 [0x0038B4C5+439493]\000A\0009Ordinal0 [0x00394F40+479040]\000A\0009Ordinal0 [0x003498FE+170238]\000A\0009Ordinal0 [0x00348D1D+167197]\000A\0009Ordinal0 [0x0034742B+160811]\000A\0009Ordinal0 [0x00330AE6+68326]\000A\0009Ordinal0 [0x00331BF0+72688]\000A\0009Ordinal0 [0x00331B89+72585]\000A\0009Ordinal0 [0x00424B77+1067895]\000A\0009GetHandleVerifier [0x00526875+506677]\000A\0009GetHandleVerifier [0x00526610+506064]\000A\0009GetHandleVerifier [0x0052D1B8+533624]\000A\0009GetHandleVerifier [0x0052704A+508682]\000A\0009Ordinal0 [0x0041C266+1032806]\000A\0009Ordinal0 [0x0041C0DF+1032415]\000A\0009Ordinal0 [0x00426A8B+1075851]\000A\0009Ordinal0 [0x00426BF3+1076211]\000A\0009Ordinal0 [0x00425BA5+1072037]\000A\0009BaseThreadInitThunk [0x75FB6359+25]\000A\0009RtlGetAppContainerNamedObjectPath [0x77A07A94+228]\000A\0009RtlGetAppContainerNamedObjectPath [0x77A07A64+180]\000A,null,session not created\000Afrom chrome not reachable\000A  (Session info: chrome=76.0.3809.100)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SHRIMATHI-PC'\002C ip: '192.168.1.5'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: driver.version: ChromeDriver\000Aremote stacktrace: Backtrace:\000A\0009Ordinal0 [0x00487C93+1473683]\000A\0009Ordinal0 [0x0040ADB1+961969]\000A\0009Ordinal0 [0x0039418C+475532]\000A\0009Ordinal0 [0x0038DB1A+449306]\000A\0009Ordinal0 [0x0038E1B8+451000]\000A\0009Ordinal0 [0x0038F2C5+455365]\000A\0009Ordinal0 [0x0038B4C5+439493]\000A\0009Ordinal0 [0x00394F40+479040]\000A\0009Ordinal0 [0x003498FE+170238]\000A\0009Ordinal0 [0x00348D1D+167197]\000A\0009Ordinal0 [0x0034742B+160811]\000A\0009Ordinal0 [0x00330AE6+68326]\000A\0009Ordinal0 [0x00331BF0+72688]\000A\0009Ordinal0 [0x00331B89+72585]\000A\0009Ordinal0 [0x00424B77+1067895]\000A\0009GetHandleVerifier [0x00526875+506677]\000A\0009GetHandleVerifier [0x00526610+506064]\000A\0009GetHandleVerifier [0x0052D1B8+533624]\000A\0009GetHandleVerifier [0x0052704A+508682]\000A\0009Ordinal0 [0x0041C266+1032806]\000A\0009Ordinal0 [0x0041C0DF+1032415]\000A\0009Ordinal0 [0x00426A8B+1075851]\000A\0009Ordinal0 [0x00426BF3+1076211]\000A\0009Ordinal0 [0x00425BA5+1072037]\000A\0009BaseThreadInitThunk [0x75FB6359+25]\000A\0009RtlGetAppContainerNamedObjectPath [0x77A07A94+228]\000A\0009RtlGetAppContainerNamedObjectPath [0x77A07A64+180]\000A,HomePage.initilize:21->Base.initialzeDriver:30 \00BB SessionNotCreated session not...,org.openqa.selenium.SessionNotCreatedException: \000Asession not created\000Afrom chrome not reachable\000A  (Session info: chrome=76.0.3809.100)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SHRIMATHI-PC'\002C ip: '192.168.1.5'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: driver.version: ChromeDriver\000Aremote stacktrace: Backtrace:\000A\0009Ordinal0 [0x00487C93+1473683]\000A\0009Ordinal0 [0x0040ADB1+961969]\000A\0009Ordinal0 [0x0039418C+475532]\000A\0009Ordinal0 [0x0038DB1A+449306]\000A\0009Ordinal0 [0x0038E1B8+451000]\000A\0009Ordinal0 [0x0038F2C5+455365]\000A\0009Ordinal0 [0x0038B4C5+439493]\000A\0009Ordinal0 [0x00394F40+479040]\000A\0009Ordinal0 [0x003498FE+170238]\000A\0009Ordinal0 [0x00348D1D+167197]\000A\0009Ordinal0 [0x0034742B+160811]\000A\0009Ordinal0 [0x00330AE6+68326]\000A\0009Ordinal0 [0x00331BF0+72688]\000A\0009Ordinal0 [0x00331B89+72585]\000A\0009Ordinal0 [0x00424B77+1067895]\000A\0009GetHandleVerifier [0x00526875+506677]\000A\0009GetHandleVerifier [0x00526610+506064]\000A\0009GetHandleVerifier [0x0052D1B8+533624]\000A\0009GetHandleVerifier [0x0052704A+508682]\000A\0009Ordinal0 [0x0041C266+1032806]\000A\0009Ordinal0 [0x0041C0DF+1032415]\000A\0009Ordinal0 [0x00426A8B+1075851]\000A\0009Ordinal0 [0x00426BF3+1076211]\000A\0009Ordinal0 [0x00425BA5+1072037]\000A\0009BaseThreadInitThunk [0x75FB6359+25]\000A\0009RtlGetAppContainerNamedObjectPath [0x77A07A94+228]\000A\0009RtlGetAppContainerNamedObjectPath [0x77A07A64+180]\000A\000A\0009at Academy.HomePage.initilize(HomePage.java:21)\000A
+
+
+# Created at 2019-08-17T20:16:57.990
+Unexpected IOException: 9,1,Academy.HomePage,Initialze(Academy.HomePage),null,null,null
+
+
+# Created at 2019-08-17T20:16:58.022
+Unexpected IOException: 5,1,Academy.HomePage,Navigation(Academy.HomePage),Academy.HomePage,null,null
+
+
+# Created at 2019-08-17T20:16:58.022
+Unexpected IOException: 9,1,Academy.HomePage,Navigation(Academy.HomePage),null,session not created\000Afrom chrome not reachable\000A  (Session info: chrome=76.0.3809.100)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SHRIMATHI-PC'\002C ip: '192.168.1.5'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: driver.version: ChromeDriver\000Aremote stacktrace: Backtrace:\000A\0009Ordinal0 [0x00487C93+1473683]\000A\0009Ordinal0 [0x0040ADB1+961969]\000A\0009Ordinal0 [0x0039418C+475532]\000A\0009Ordinal0 [0x0038DB1A+449306]\000A\0009Ordinal0 [0x0038E1B8+451000]\000A\0009Ordinal0 [0x0038F2C5+455365]\000A\0009Ordinal0 [0x0038B4C5+439493]\000A\0009Ordinal0 [0x00394F40+479040]\000A\0009Ordinal0 [0x003498FE+170238]\000A\0009Ordinal0 [0x00348D1D+167197]\000A\0009Ordinal0 [0x0034742B+160811]\000A\0009Ordinal0 [0x00330AE6+68326]\000A\0009Ordinal0 [0x00331BF0+72688]\000A\0009Ordinal0 [0x00331B89+72585]\000A\0009Ordinal0 [0x00424B77+1067895]\000A\0009GetHandleVerifier [0x00526875+506677]\000A\0009GetHandleVerifier [0x00526610+506064]\000A\0009GetHandleVerifier [0x0052D1B8+533624]\000A\0009GetHandleVerifier [0x0052704A+508682]\000A\0009Ordinal0 [0x0041C266+1032806]\000A\0009Ordinal0 [0x0041C0DF+1032415]\000A\0009Ordinal0 [0x00426A8B+1075851]\000A\0009Ordinal0 [0x00426BF3+1076211]\000A\0009Ordinal0 [0x00425BA5+1072037]\000A\0009BaseThreadInitThunk [0x75FB6359+25]\000A\0009RtlGetAppContainerNamedObjectPath [0x77A07A94+228]\000A\0009RtlGetAppContainerNamedObjectPath [0x77A07A64+180]\000A,null
+
+
+# Created at 2019-08-17T20:16:58.022
+Unexpected IOException: 5,1,Academy.PageTitleValidation,Navigation(Academy.PageTitleValidation),Academy.PageTitleValidation,null,null
+
+
+# Created at 2019-08-17T20:16:58.022
+Unexpected IOException: 9,1,Academy.PageTitleValidation,Navigation(Academy.PageTitleValidation),null,session not created\000Afrom chrome not reachable\000A  (Session info: chrome=76.0.3809.100)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SHRIMATHI-PC'\002C ip: '192.168.1.5'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: driver.version: ChromeDriver\000Aremote stacktrace: Backtrace:\000A\0009Ordinal0 [0x00487C93+1473683]\000A\0009Ordinal0 [0x0040ADB1+961969]\000A\0009Ordinal0 [0x0039418C+475532]\000A\0009Ordinal0 [0x0038DB1A+449306]\000A\0009Ordinal0 [0x0038E1B8+451000]\000A\0009Ordinal0 [0x0038F2C5+455365]\000A\0009Ordinal0 [0x0038B4C5+439493]\000A\0009Ordinal0 [0x00394F40+479040]\000A\0009Ordinal0 [0x003498FE+170238]\000A\0009Ordinal0 [0x00348D1D+167197]\000A\0009Ordinal0 [0x0034742B+160811]\000A\0009Ordinal0 [0x00330AE6+68326]\000A\0009Ordinal0 [0x00331BF0+72688]\000A\0009Ordinal0 [0x00331B89+72585]\000A\0009Ordinal0 [0x00424B77+1067895]\000A\0009GetHandleVerifier [0x00526875+506677]\000A\0009GetHandleVerifier [0x00526610+506064]\000A\0009GetHandleVerifier [0x0052D1B8+533624]\000A\0009GetHandleVerifier [0x0052704A+508682]\000A\0009Ordinal0 [0x0041C266+1032806]\000A\0009Ordinal0 [0x0041C0DF+1032415]\000A\0009Ordinal0 [0x00426A8B+1075851]\000A\0009Ordinal0 [0x00426BF3+1076211]\000A\0009Ordinal0 [0x00425BA5+1072037]\000A\0009BaseThreadInitThunk [0x75FB6359+25]\000A\0009RtlGetAppContainerNamedObjectPath [0x77A07A94+228]\000A\0009RtlGetAppContainerNamedObjectPath [0x77A07A64+180]\000A,null
+
+
+# Created at 2019-08-17T20:16:58.022
+Unexpected IOException: 9,1,Academy.HomePage,driverclose(Academy.HomePage),null,null,null
+
+
+# Created at 2019-08-17T20:16:58.022
+Unexpected IOException: 9,1,Academy.HomePage,driverclose(Academy.HomePage),null,null,null
+
+
+# Created at 2019-08-17T20:16:58.319
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

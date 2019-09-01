@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20843" started-at="2019-08-29T07:01:17Z" finished-at="2019-08-29T07:01:37Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="20843" started-at="2019-08-29T07:01:17Z" finished-at="2019-08-29T07:01:37Z">
+      <class name="Academy.PageTitleValidation">
+        <test-method status="PASS" signature="Initialze()[pri:0, instance:Academy.PageTitleValidation@3f2a3a5]" name="Initialze" is-config="true" duration-ms="15895" started-at="2019-08-29T12:31:17Z" finished-at="2019-08-29T12:31:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialze -->
+        <test-method status="PASS" signature="Navigation()[pri:0, instance:Academy.PageTitleValidation@3f2a3a5]" name="Navigation" duration-ms="488" started-at="2019-08-29T12:31:32Z" finished-at="2019-08-29T12:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigation -->
+        <test-method status="PASS" signature="driverclose()[pri:0, instance:Academy.PageTitleValidation@3f2a3a5]" name="driverclose" is-config="true" duration-ms="4444" started-at="2019-08-29T12:31:33Z" finished-at="2019-08-29T12:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+      </class> <!-- Academy.PageTitleValidation -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
