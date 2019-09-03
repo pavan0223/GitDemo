@@ -12,8 +12,7 @@ public class LoginPage
 	   By username=By.id("email");
 	   By Password=By.id("pass");
 	   By Login=By.id("loginbutton");
-	   By Account_Settings=By.xpath("//div[@id='logoutMenu']");
-	   By Logout=By.xpath("//span[contains(text(),'Log Out')]");
+	   
 	   
 	   
 	   

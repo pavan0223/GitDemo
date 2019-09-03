@@ -36,6 +36,12 @@ public class HomePage  extends Base
 		
 		
 	}
+	//GitUserX is created method
+	@Test
+	public void Logout()
+	{
+		
+	}
 	
 	@AfterTest
 	public void driverclose()
