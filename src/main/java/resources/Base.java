@@ -56,7 +56,7 @@ public class Base
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HHmmss"); 
 		File src=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 		FileUtils.copyFile(src, new File("D://"+result+sdf+"screenshot.png"));
-		
+		System.out.println("Failed screen shot is taken");
 	}
 
 	
