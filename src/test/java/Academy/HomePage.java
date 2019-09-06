@@ -7,6 +7,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
+import pageObject.LogOutPage;
 import pageObject.LoginPage;
 import resources.Base;
 
@@ -38,9 +39,12 @@ public class HomePage  extends Base
 	}
 	//GitUserX is created method
 	@Test
-	public void Logout()
+	public void Logout() throws InterruptedException
 	{
-		
+		LogOutPage lo=new LogOutPage(driver);
+		lo.Account_Settings();
+		Thread.sleep(3000);
+		lo.Logout();
 	}
 	
 	@AfterTest
